@@ -1,0 +1,9 @@
+entropy,file_size,api_calls
+7.9,2048,320   # Simulated ransomware
+7.8,1500,300   # Simulated ransomware
+3.5,500,20     # Normal file
+4.0,650,25     # Normal file
+8.0,1000,340   # Simulated ransomware
+2.5,100,10     # Normal file
+7.6,1700,310   # Simulated ransomware
+3.0,300,15     # Normal file
